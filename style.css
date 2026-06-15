@@ -1,0 +1,148 @@
+.parametro-senha-botoes{
+    display: flex;
+    justify-content: center;
+}
+.parametro-senha__botao{
+    background-color: var(--fundo-texto);
+    color: var(--branco);
+}
+.parametro-senha__botao{
+    background-color: var(--fundo-texto);
+    color: var(--branco);
+    border: 2px solid var(--borda);
+}
+.parametro-senha__botao{
+    background-color: var(--fundo-texto);
+    color: var(--branco);
+    border: 2px solid var(--borda);
+    padding: 24px;
+    font-size: 24px;
+}
+.parametro-senha__texto{
+    padding: 24px;
+}
+.parametro-senha__texto{
+    padding: 24px;
+    border-top: 2px solid var(--borda);
+    border-bottom: 2px solid var(--borda);
+    margin: 0;
+ }
+ .parametro-senha__texto{
+    padding: 24px;
+    border-top: 2px solid var(--borda);
+    border-bottom: 2px solid var(--borda);
+    margin: 0;
+    font-size: 24px;
+}
+.parametro-senha__botao{
+    background-color: var(--fundo-texto);
+    color: var(--branco);
+    border: 2px solid var(--borda);
+    padding: 24px;
+    font-size: 24px;
+    cursor: pointer;
+}
+.barra {
+    background-color: var(--fundo-senha);
+  }
+  .barra{
+    background-color: var(--fundo-senha);
+    height: 30px;
+    width: 100%;
+}
+.fraca{
+    height: 30px;
+    width: 25%;
+    background-color: #E71B32; 
+}
+.fraca{
+    height: 30px;
+    width: 25%;
+    background-color: #E71B32;
+    position: relative;
+}
+.fraca{
+    height: 30px;
+    width: 25%;
+    background-color: #E71B32;
+    position: relative;
+    bottom: 30px;
+}
+.parametro-senha-textos {
+    display: flex;
+    justify-content: space-between;
+}
+.forte{
+    height: 30px;
+    width: 100%;
+    background-color: #00FF85;
+    position: relative;
+    bottom: 30px;
+}
+.forca{
+    height: 30px;
+    position: relative;
+    bottom: 30px;
+}
+.fraca{
+    width: 25%;
+    background-color: #E71B32; 
+}
+.media{
+    background-color: #FAF408;
+    width: 50%;
+}
+.forte{
+    background-color: #00FF85;
+    width: 100%;
+}
+<body>
+    <section class="conteudo">
+    
+    <!-- Código omitido -->
+    
+    </section>
+    <script src="main.js"></script>
+</body>
+document.querySelector('.parametro-senha__texto');
+const numeroSenha = document.querySelector('.parametro-senha__texto');
+const numeroSenha = document.querySelector('.parametro-senha__texto');
+numeroSenha.textContent = 5;
+const botoes = document.querySelector('.');
+const botoes = document.querySelector('.parametro-senha__botao');
+const botoes = document.querySelectorAll('.parametro-senha__botao');
+
+console.log(botoes);
+const botoes = document.querySelectorAll('.parametro-senha__botao');
+
+botoes[0].onclick = diminuiTamanho;
+
+console.log(botoes);
+const botoes = document.querySelectorAll('.parametro-senha__botao');
+
+botoes[0].onclick = diminuiTamanho;
+
+console.log(botoes);
+
+function diminuiTamanho(){ 
+
+}
+let tamanhoSenha = 12;
+senha.textContent = tamanhoSenha;
+const numeroSenha = document.querySelector('.parametro-senha__texto');
+let tamanhoSenha = 12;
+numeroSenha.textContent = tamanhoSenha;
+
+const botoes = document.querySelectorAll('.parametro-senha__botao');
+
+botoes[0].onclick = diminuiTamanho;
+
+function diminuiTamanho(){ 
+    tamanhoSenha = tamanhoSenha - 1;
+}
+
+console.log(botoes);
+function diminuiTamanho(){ 
+    tamanhoSenha = tamanhoSenha - 1;
+    numeroSenha.textContent = tamanhoSenha
+}
